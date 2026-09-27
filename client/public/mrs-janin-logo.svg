@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Mrs Janin jump mark">
+  <!-- Paper-cut jump mark: a marigold runner arcing over a coral crate. -->
+  <path d="M8 50h48" stroke="#dfc790" stroke-width="4" stroke-linecap="round"/>
+  <rect x="26" y="38" width="12" height="12" rx="2" fill="#f06e5b" stroke="#242448" stroke-width="2.5"/>
+  <path d="M10 44C16 20 40 10 54 30" fill="none" stroke="#aeb7d8" stroke-width="2.5" stroke-dasharray="4 5" stroke-linecap="round"/>
+  <circle cx="40" cy="15" r="5" fill="#fff5d8" stroke="#242448" stroke-width="2.5"/>
+  <path d="M39 21l-2 11m-1-7-7 4m8-3 7-3m-7 9-6 6m6-6 5 5" fill="none" stroke="#f7c843" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
